@@ -1,0 +1,675 @@
+#c
+if("trst" == "sdfsdf"){
+	
+}
+
+#Java
+if("trst" == "sdfsdf"){
+	
+}
+
+if ("test" == "sdfs"):
+	print
+
+
+#Javascript
+if("trst" == "sdfsdf"){
+	
+}
+
+1. what is if ?
+	1.1. Boolean
+		true
+		false
+
+
+if test==test print
+
+1. memory management
+2. performance 
+3. networking, 
+
+############# 1
+for (int i =0 ; <>;<>){
+	
+}
+mem = 2 * 100 = 200
+300 ms
+
+################# 2
+
+function data(){
+	int i ;   # 2
+	for (i =0 ; <100>;<>){
+	
+	}	
+}
+
+
+mem = 2
+
+2ms
+
+10kbs - 200 packet / ms
+
+
+
+C - Complied language
+	
+	code
+
+	interpretor
+
+	compiler
+
+	binary
+
+
+c- usecase
+	1. OS
+	2. Network
+	3. driver
+
+
+fun
+
+gloa
+
+main(){
+	
+}
+
+
+Decalarion
+user - function
+main function
+
+
+1. Flow chart, psudocode
+
+
+Question : find sum of two numbers.
+
+1. two inputs
+2. perform oper
+3. store
+
+main(){
+	int a=10, b=20,c;
+	c = a+b
+	print(c)
+}
+
+
+a = 10
+b = 10
+c = a+b
+c show
+
+
+
+;
+}
+
+
+#include <stdio.h>
+
+data type
+	1. int float dobule, char, bool,string array, long short signed unsined struct, enum
+
+
+
+Built in / primitive
+	1. integral
+		int - %d
+		char - %c/s or %d
+
+	2. Bool
+	3. floating poins
+		float
+		double
+
+Derived
+	array
+	pointers
+
+user-defined
+	struct
+	ennum
+	union 
+
+
+
+int 4
+
+every datatype has size and range
+
+unsigned short int  - 2 0 - 65535
+
+unsigned s int = 70000
+
+int = 4
+
+
+main(){
+	int a=10, b=20,c; 3*4 = 12
+	unsinged short int a=10, b=20,c; 3*2 = 6
+	c = a+b
+	print(c)
+}
+
+
+
+char
+	signed -128 to 127
+	unsined 0 to 255
+
+float
+E
+
+1. format specfier
+2. range
+3. memory
+4. MIN and MAX for all
+
+code
+{
+	{
+	Header block
+		# stdio
+		# conio
+		# math.h
+		# limits.h
+		# graphics.h
+	}
+
+	{
+		Global decalations
+		variable/functions
+	}
+
+	{
+
+		main block
+			general logics
+			scanf / printf
+	}
+
+}
+
+1. every staement end with ;
+2. code start at main block
+
+
+header
+#include <stdio.h>
+#include <limits.h>
+
+void main(){ -> main (int main(), float main()  => return type)
+	printf("%d",sizeof(int));
+	printf("start of int %d",INT_MAX);
+}
+
+
+# printf
+printf("string to show Format specifier",values)
+
+
+#ex
+printf("sum of two number is %d",sum)
+printf("sum of two number a= %d and b = %d is : %d", a,b,sum)
+
+
+
+1. arihtmetic
+2. assignment
+3. relational
+4. logical
+5. incremental / decremental
+6. control statements
+
+
+
+1. 
+
+
+Runtime
+	exc
+compile time
+	inter
+
+
+c - 99 - 1010
+
+
+MOV 
+
+
+Hi <name>,
+
+I want attend internship.
+
+name:
+college:
+
+Regards,
+Tamilvalavan.
+
+Oper
+
+1. arithmetic
+2. assignment
+3. relational
+4. logical
+5. bitwise
+6. increment and decrement
+
+
+
+Arithmetic
+	maths
+		+
+		-
+		*
+		/
+		%
+
+Bracket -> div -> multi -> sum - > sub  => operator precedence
+
+10 / 5 + 5
+2 +5 = 7
+
+
+run time and complie
+
+compile time
+	values
+	function
+
+	a = 5
+	i = 0
+
+
+ = 
+ 		a = b
+ 		a+=b
+ 		a = a+b
+ 		a = a-b
+ 		a = a/b
+ 		a = a%b
+
+ +=
+ -+
+ *=
+ /+
+ %=
+
+
+
+Relational
+
+== - > compaison
+>
+<
+>=
+<=
+!=
+
+1. relati v will return bool value
+		O
+		1
+
+Logical operator
+
+&& - logical and
+|| - logical OR
+! - Not
+
+
+AND
+ both values true => return true
+
+OR
+	either one True => true
+
+Not
+		inverse
+				Tr => fa
+				fa => tr
+
+
+
+Increment and Decrement
+		pre     Increment and Decrement
+		post   Increment and Decrement
+
+
+pre
+		printf(++a) // it excute on same line
+		printf(--a) // it excute on same line
+
+post
+		printf(a++) // after this line the change will be there
+		printf(a--) // after this line the change will be there
+
+
+hi iam tamil -> sathish
+
+ah id ia dj akd las jask
+
+
+ceaser cihper
+
+Bitwise operator
+
+		and
+		or
+		xor
+		not
+		shift ->
+
+
+
+01010
+11001
+
+bitwise
+		01000 = 8
+
+
+BIOS
+DISK - encryption 
+OS
+
+10
+As!
+n - 1
+
+
+Control statement
+	if
+	if .. else
+	nested if...
+	elseif
+	switch
+	for
+	while
+	do while
+
+
+if | switch | loop statement
+
+
+
+
+
+
+if (condition) {
+	
+} => bool 
+
+
+if (1){
+	print("true")
+}else{
+	print("false")
+}
+
+
+
+
+if(condtion){
+	
+}else{
+	
+}
+
+
+
+if (amount){
+	
+}
+else if(){
+	
+}else if(){
+	
+}
+else{
+	
+}
+
+
+
+if (amount){
+		if (amount){
+	
+		}else{
+
+		}	
+}
+
+
+int i
+for(i){
+	
+}
+
+for(i)
+
+"string"
+
+"a"
+
+True
+true
+
+
+True
+False
+
+switch(ch){
+	case 1:
+			printf()
+			break;
+	case 2:	
+	
+	case n:
+
+	default:
+
+
+}
+
+
+1. write an program to caluculate total marks for the semester. find grade based on avg.
+		example
+				mat - 88
+				sci - 90
+				DSP - 89
+
+		Grade
+				o - 90 above
+				a+ - 80 - 90
+				a - 70 -80
+				b+ - 60 -70
+				b -  50 - 60
+				u - fail
+
+
+
+2. leap year
+3. even or odd
+4. given char is vowel or not
+5. hotel mangement
+		menu card
+				1. noodle
+				2. rice
+				3. grill/tandori
+				4. briyani
+
+		ask customer to select the food and quantity. show the total price for the product
+
+
+
+
+
+if(totalSubMark>=0){
+		perc=totalSubMark/6 ;
+	}
+	
+	if(perc>=0){
+		 if(perc>90){
+		 	printf("Your grade is O ");
+		 }else if(perc>80){
+		 	printf("Your grade is A+ ");
+		 }else if(perc>70){
+		 	printf("Your grade is A ");
+		 }else if(perc>60){
+		 	printf("Your grade is B+ ");
+		 }else if(perc>50){
+		 	printf("Your grade is B ");
+		 }else{
+			printf("fail");
+		}
+	 
+	}
+
+single line if / ternary oper / conditional operator statement
+
+	condition ? {truw} : false
+
+
+int a=10, b=20
+if (a > b){
+	a is gre
+}else{
+	b gre
+}
+
+int a=10,b=20,c
+c = a>b ? a : b;
+printf("greater no %d",c)
+
+while loop
+do while
+
+# while
+while(condition){
+	statements
+}
+
+
+while(number <= 10){
+	printf("%d",number)
+}
+
+condition
+increment/decrement
+ittration variables need to declared before loop
+
+
+do {
+	statement
+}while(condtiotion)
+
+for(init;condtion;inc/decre){
+	
+}
+
+for(i =0;i<=user_input;i+=2)
+
+
+
+array single/2d
+[10,15,20,30]
+
+[
+12,12,12
+23,24,34
+66,55,33
+]
+
+array_var[200]
+
+
+init()
+main()
+decl()
+
+
+
+decl()
+main()
+
+int function name(params)
+int sum_of_number(int,int)
+
+http://localhost/movie/movie_name/file.mp4
+
+
+movies/movie_name/file
+
+
+pointer:
+	1. stores address
+	2. memory memory communication
+	3. 
+
+
+1. stores the address
+2. pointer is similar to integer it stores an number(adderess)
+3. pointer size is equal to int
+
+
+int *number
+ 
+
+Structure and union
+	1. user defined datatype
+
+
+array = [int,int,int]
+		[char,char,char]
+
+
+	2. strcut can have different datatypes grouped together
+
+struct struct_name{
+	declartions
+}
+
+struct student{
+	int rollno;
+	char name[50];
+	char mobile[10];
+	char fathername[50];
+	int mark;
+	float percentage;
+}
+
+4+50+10+50+4+4
+
+	3. use combined  mem of all variables
+
+{
+	num,string,long stinr , bool
+}
+
+4+1*50+1*10+1*50+4+4
+100+10+4+4+4
+100+10+12
+=122 => size
+
+
+4. need to create an stryct variable
+
+
+
+# Linked lists
+# sort
+# search
+# time/space
+
+blockchain
+	
+	
